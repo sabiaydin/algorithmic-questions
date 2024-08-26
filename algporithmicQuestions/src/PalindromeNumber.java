@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 public class PalindromeNumber {
     public static boolean isPalindrome(int number){

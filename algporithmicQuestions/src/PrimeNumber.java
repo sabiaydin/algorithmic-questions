@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 public class PrimeNumber {
     public static boolean isPrime(int number){

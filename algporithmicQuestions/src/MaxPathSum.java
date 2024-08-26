@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 public class MaxPathSum {
     public static int getMaxSum(int[][] grid) {

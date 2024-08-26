@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 public class PrintPattern {
     public static void rightTriangle(){

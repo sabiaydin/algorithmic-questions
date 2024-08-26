@@ -1,8 +1,4 @@
-package untitled.src;
-
-import java.awt.*;
-import java.util.Arrays;
-import java.util.Scanner;
+package algporithmicQuestions.src;
 
 
 public class Main {

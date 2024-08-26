@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 import java.util.HashMap;
 import java.util.Map;

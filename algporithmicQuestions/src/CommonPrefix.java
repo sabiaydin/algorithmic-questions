@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 public class CommonPrefix {
     public static String longestCommonPrefix(String[] strs) {

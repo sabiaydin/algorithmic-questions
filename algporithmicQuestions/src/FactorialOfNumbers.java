@@ -1,4 +1,4 @@
-package untitled.src;
+package algporithmicQuestions.src;
 
 public class FactorialOfNumbers {
     public static int findFactorial(int number) {
