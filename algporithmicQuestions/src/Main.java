@@ -37,6 +37,6 @@ public class Main {
         //  PrintPattern.diamondShape();
         //  PrintPattern.downwardTriangle();
         //  ReverseOfNumbers.reverseNumber(12345);
-        System.out.println(PetersonNumbers.isPeterson(22));
+        // System.out.println(PetersonNumbers.isPeterson(22));
     }
 }
