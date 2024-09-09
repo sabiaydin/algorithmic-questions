@@ -19,6 +19,7 @@ public class Main {
                 {4, 3, 8, 4, 8},
                 {7, 9, 6, -1, 3}
         };
+
       /*    String[] strings = new String[]{"flower", "flow", "flight"};
             System.out.println(CommonPrefix.longestCommonPrefix(strings));*/
         //  System.out.println("Maximum Path Sum: " + MaxPathSum.getMaxSum(grid));
@@ -38,5 +39,7 @@ public class Main {
         //  PrintPattern.downwardTriangle();
         //  ReverseOfNumbers.reverseNumber(12345);
         System.out.println(PetersonNumbers.isPeterson(22));
+        System.out.println(ReverseString.reverseOfText("Sabina Mammadova"));
+        System.out.println(ReverseString.isPalindromeString("anna"));
     }
 }
